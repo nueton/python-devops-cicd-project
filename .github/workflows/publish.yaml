@@ -43,9 +43,9 @@ jobs:
         with:
           name: simple-http-checker-${{ github.sha }}
           path: dist/
-      - name: Publish to Testpypi
+      - name: Publish to TestPyPI
         uses: pypa/gh-action-pypi-publish@release/v1
         with:
-          repository-url: https://test.pypi.org/legacy
+          repository-url: https://test.pypi.org/legacy/
           skip-existing: true
           verbose: true
