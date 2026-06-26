@@ -58,6 +58,6 @@ jobs:
         needs:
           - tests
           - lint-static-checks
-        steps
+        steps:
           - name: Release
             run: echo "Release"
