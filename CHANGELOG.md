@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.3.0 (2026-06-29)
+
+### Features
+
+- **python-cicd**: Add publish to PyPI
+  ([`929e70a`](https://github.com/nueton/python-devops-cicd-project/commit/929e70ac67c253cea3040e176d1c06ade0e32f15))
+
+
 ## v1.2.2 (2026-06-29)
 
 ### Bug Fixes
