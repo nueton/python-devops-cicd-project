@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.2.2 (2026-06-29)
+
+### Bug Fixes
+
+- **feat(python-cicd)**: Fix project name
+  ([`d68aa82`](https://github.com/nueton/python-devops-cicd-project/commit/d68aa8266790ceb65c6e3d5f3a37a809729fc01e))
+
+
 ## v1.2.1 (2026-06-29)
 
 ### Bug Fixes
