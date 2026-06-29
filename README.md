@@ -9,4 +9,4 @@ This repo contains the codes for the CI/CD section of my Python for DevOps cours
 [x] Add typing and security checks
 [x] Add test automation
 [x] Build our Python project
-[] Publish the project to both TestPyPI and PyPI when a new release is published 
+[x] Publish the project to both TestPyPI and PyPI when a new release is published 
