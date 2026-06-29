@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.4.0 (2026-06-29)
+
+### Features
+
+- **python-cicd**: Introduce breaking change
+  ([`a889518`](https://github.com/nueton/python-devops-cicd-project/commit/a8895182ee176237e1d1f7686a8ef0670e78aa72))
+
+
 ## v1.3.1 (2026-06-29)
 
 ### Performance Improvements
