@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.2.1 (2026-06-29)
+
+### Bug Fixes
+
+- **feat(python-cicd)**: Add space in README.md
+  ([`01816a7`](https://github.com/nueton/python-devops-cicd-project/commit/01816a726065fd578eb560b88d45c46449677f26))
+
+
 ## v1.2.0 (2026-06-29)
 
 ### Features
