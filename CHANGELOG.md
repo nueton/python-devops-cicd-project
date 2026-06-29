@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.2.0 (2026-06-29)
+
+### Features
+
+- **python-cicd**: Fix GH_TOKEN in publishing workflow
+  ([`da1fe04`](https://github.com/nueton/python-devops-cicd-project/commit/da1fe04fdce804d2d0cc84d33808eac54e138630))
+
+
 ## v1.1.0 (2026-06-26)
 
 ### Features
