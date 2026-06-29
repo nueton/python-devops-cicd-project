@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.3.1 (2026-06-29)
+
+### Performance Improvements
+
+- **python-cicd**: Deduplicate build logic and download artifacts from release
+  ([`2a97981`](https://github.com/nueton/python-devops-cicd-project/commit/2a97981b2e02e835f44043aa4250a0d23b696ed8))
+
+
 ## v1.3.0 (2026-06-29)
 
 ### Features
