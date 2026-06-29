@@ -19,14 +19,14 @@ jobs:
       contents: read
     steps:
       - name: Download wheel artifact
-        uses: robinraju/release-download@v1.12
+        uses: robinraju/release-downloader@v1.12
         with:
           repository: ${{ github.repository }}
           tag: ${{ github.event.release.tag_name || github.event.inputs.tag }}
           fileName: "*.whl"
           out-file-path: dist/
       - name: Download tarball artifact
-        uses: robinraju/release-download@v1.12
+        uses: robinraju/release-downloader@v1.12
         with:
           repository: ${{ github.repository }}
           tag: ${{ github.event.release.tag_name || github.event.inputs.tag }}
@@ -47,14 +47,14 @@ jobs:
       contents: read
     steps:
       - name: Download wheel artifact
-        uses: robinraju/release-download@v1.12
+        uses: robinraju/release-downloader@v1.12
         with:
           repository: ${{ github.repository }}
           tag: ${{ github.event.release.tag_name || github.event.inputs.tag }}
           fileName: "*.whl"
           out-file-path: dist/
       - name: Download tarball artifact
-        uses: robinraju/release-download@v1.12
+        uses: robinraju/release-downloader@v1.12
         with:
           repository: ${{ github.repository }}
           tag: ${{ github.event.release.tag_name || github.event.inputs.tag }}
